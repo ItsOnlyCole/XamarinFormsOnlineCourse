@@ -1,0 +1,13 @@
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\bin\Debug\netstandard2.0\ClickUs.deps.json
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\bin\Debug\netstandard2.0\ClickUs.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\bin\Debug\netstandard2.0\ref\ClickUs.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\bin\Debug\netstandard2.0\ClickUs.pdb
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\ClickUs.csprojAssemblyReference.cache
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\ClickUs.AssemblyInfoInputs.cache
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\ClickUs.AssemblyInfo.cs
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\ClickUs.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\ref\ClickUs.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\ClickUs.pdb
+C:\Users\count\Programming\XamarinFormsOnlineCourse\01.07_FirstApp\ClickUs\ClickUs\ClickUs\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs
