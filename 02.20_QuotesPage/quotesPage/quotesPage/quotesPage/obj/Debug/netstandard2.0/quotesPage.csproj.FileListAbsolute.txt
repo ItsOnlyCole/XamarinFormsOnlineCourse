@@ -1,0 +1,13 @@
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\bin\Debug\netstandard2.0\quotesPage.deps.json
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\bin\Debug\netstandard2.0\quotesPage.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\bin\Debug\netstandard2.0\ref\quotesPage.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\bin\Debug\netstandard2.0\quotesPage.pdb
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\quotesPage.csprojAssemblyReference.cache
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\QuotesPage.xaml.g.cs
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\quotesPage.AssemblyInfoInputs.cache
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\quotesPage.AssemblyInfo.cs
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\quotesPage.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\ref\quotesPage.dll
+C:\Users\count\Programming\XamarinFormsOnlineCourse\02.20_QuotesPage\quotesPage\quotesPage\quotesPage\obj\Debug\netstandard2.0\quotesPage.pdb
