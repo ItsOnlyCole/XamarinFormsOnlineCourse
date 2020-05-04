@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{74B40719-8A04-4456-BE92-F7F45FD4133B}|Default">
+  <MonoDevelop.Ide.ItemProperties.stackedLayoutExerciseOne.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="stackedLayoutExerciseOne/WelcomeScreen.xaml">
+    <Files>
+      <File FileName="stackedLayoutExerciseOne/App.xaml.cs" Line="13" Column="41" />
+      <File FileName="stackedLayoutExerciseOne/WelcomeScreen.xaml" Line="32" Column="1" />
+      <File FileName="stackedLayoutExerciseOne/WelcomeScreen.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="stackedLayoutExerciseOne" expanded="True">
+            <Node name="stackedLayoutExerciseOne" expanded="True" selected="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="WelcomeScreen.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.stackedLayoutExerciseOne.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.546D2B49-0EC9-4332-883F-33991F80F2CE" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

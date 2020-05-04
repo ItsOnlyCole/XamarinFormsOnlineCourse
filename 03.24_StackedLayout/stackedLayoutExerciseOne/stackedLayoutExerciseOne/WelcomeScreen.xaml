@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"              x:Class="stackedLayoutExerciseOne.WelcomeScreen"             BackgroundColor="#127ac7">
+    <StackLayout
+        VerticalOptions="Center"
+        Spacing="20">
+        <Label x:Name="welcomeText"                Text="Welcome to Xamarin"
+                FontSize="30"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                TextColor="White" />
+        <Label x:Name="crossPlatformText"                Text="Cross-Platform apps made easy"
+                FontSize="18"
+                TextColor="White"
+                HorizontalOptions="Center" />
+        <Button x:Name="loginButton"                Text="Login"
+                TextColor="White"
+                HorizontalOptions="Fill"
+                BackgroundColor="DeepSkyBlue" />
+        <Button x:Name="registerButton"
+                Text="Register"
+                TextColor="White"
+                HorizontalOptions="Fill"
+                BackgroundColor="DeepSkyBlue" />
+    </StackLayout>
+</ContentPage>

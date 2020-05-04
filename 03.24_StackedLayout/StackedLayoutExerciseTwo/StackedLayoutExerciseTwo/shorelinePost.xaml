@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackedLayoutExerciseTwo.shorelinePost">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <!--New way of handling OnPlatform as of Xamarin 2.3.4-->
+            <On Platform="Android" Value="0, 0, 0, 0" />
+            <On Platform="iOS" Value="0, 50, 0, 0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <StackLayout HorizontalOptions="Fill">
+        <Label x:Name="usernameLabel"
+               Text="artistfull"
+               Padding="15,0,0,15"/>
+        <!--Images must be stored in approriate OS's resources folder-->
+        <Image x:Name="postImage" Source="testimg.jpeg" />
+        <!--Nested Stacked Layout for setting custom padding-->
+        <StackLayout Padding="15, 0, 15, 0">
+            <!-- Like, Comment, Share Buttons-->
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="likeButton"
+                        Text="Like" />
+                <Button x:Name="commentButton"
+                        Text="Comment" />
+                <Button x:Name="shareButton"
+                        Text="Share" />
+            </StackLayout>
+            <BoxView Color="#f0f0f0"
+                     HeightRequest="2"/>
+            <Label x:Name="likesLabel"
+                   Text="700 Likes"
+                   FontAttributes="Bold" />
+            <Label x:Name="postTextLabel"
+                   Text="Some art work of a forest that I'm working on. It's going to be apart of my new Red Night set!"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

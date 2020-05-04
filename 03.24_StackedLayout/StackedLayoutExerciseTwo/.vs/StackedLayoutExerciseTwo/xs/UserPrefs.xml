@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{EC85CDF1-17F1-4DDF-BD79-5204B13FE89E}|Default">
+  <MonoDevelop.Ide.ItemProperties.StackedLayoutExerciseTwo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.546D2B49-0EC9-4332-883F-33991F80F2CE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackedLayoutExerciseTwo/shorelinePost.xaml">
+    <Files>
+      <File FileName="StackedLayoutExerciseTwo/shorelinePost.xaml" Line="27" Column="40" />
+      <File FileName="StackedLayoutExerciseTwo/shorelinePost.xaml.cs" Line="12" Column="35" />
+      <File FileName="StackedLayoutExerciseTwo/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StackedLayoutExerciseTwo" expanded="True">
+            <Node name="StackedLayoutExerciseTwo" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="shorelinePost.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="StackedLayoutExerciseTwo.Android" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+            <Node name="StackedLayoutExerciseTwo.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StackedLayoutExerciseTwo.Android PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>
